@@ -57,15 +57,32 @@ github-repo-explorer/
 
 ---
 
+## 🧭 State Machine
+
+Try out our state machine in simulation mode:
+
+[Open in Stately](https://stately.ai/registry/editor/embed/aee52c41-8cca-4059-b6ae-735448026c41?machineId=544096ea-9b65-4252-8202-9cac7a3da8ee)
+
+**What is this?**
+
+This is a simulation of our state machine, built using [Stately](https://stately.ai/). You can interact with the machine by sending events and observing the resulting state changes.
+
+**How to use**
+
+1. Click on the simulation link above to open the Stately editor.
+2. Send events to the machine by clicking on the event buttons.
+3. Observe the resulting state changes in the state chart.
+
+---
+
 ## 🚀 Quick Start
 
-- Getting Started
-- Clone the repository: git clone [https://github.com/your-username/github-repo-explorer.git](https://github.com/your-username/github-repo-explorer.git)
-- Install dependencies: `npm install` or `yarn install`
-- Start the development server: `npm run dev` or `yarn dev`
-- Open the application in your web browser: [http://localhost:3000](http://localhost:3000)
-- Search for a repository by keyword in the search bar
-- Click on a repository to view its details
+1. Clone the repository: git clone [https://github.com/your-username/github-repo-explorer.git](https://github.com/your-username/github-repo-explorer.git)
+2. Install dependencies: `npm install` or `yarn install`
+3. Start the development server: `npm run dev` or `yarn dev`
+4. Open the application in your web browser: [http://localhost:3000](http://localhost:3000)
+5. Search for a repository by keyword in the search bar
+6. Click on a repository to view its details
 
 ---
 
